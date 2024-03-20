@@ -1,0 +1,20 @@
+.main{
+    border: 3px solid black;
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    margin-top:20%
+}
+#n1{
+    margin-top: 20px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+#n2{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bolder;
+    background: linear-gradient(to right rgb(255,300,8) );
+    
+}
